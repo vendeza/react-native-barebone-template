@@ -37,8 +37,8 @@ Be sure to see more information about installing environment: https://reactnativ
 To run this application, you first need to clone this repo and then enter into this directory:
 
 ```bash
-git clone <project repo link>
-cd options-mobile
+git clone https://github.com/vendeza/react-native-barebone-template.git
+cd react-native-barebone-template
 ```
 
 Install dependencies
